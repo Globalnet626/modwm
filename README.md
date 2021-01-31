@@ -1,4 +1,5 @@
-# MODWM - Modular Dynamic Window Manager 
+# MODWM - Modular Dynamic Window Manager
+## Gleebs Variant
 "It's dwm on steroids..."
 ![modwm](modwm.png)
 
